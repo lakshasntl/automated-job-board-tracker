@@ -14,6 +14,7 @@ A Python-based tool that reads application confirmation emails across multiple G
 ---
 
 ## Project Structure
+'''bash
 automated-job-board-tracker/
 │
 ├── credentials/ # OAuth token files (not tracked)
@@ -32,6 +33,7 @@ automated-job-board-tracker/
 │
 ├── .gitignore
 └── README.md
+'''
 
 ##How it works
 1. (Explain the step by step process of getting Gmail credentials etc.)
