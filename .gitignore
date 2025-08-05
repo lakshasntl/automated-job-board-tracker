@@ -1,5 +1,21 @@
+# Credentials and sensitive data
 credentials/
 data/
-venv/
+.env
+
+# Python
 *.pyc
 __pycache__/
+
+# Virtual environment
+venv/
+
+# Editor configs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+#Email Data
+data/job_applications.csv
